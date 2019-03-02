@@ -1,6 +1,16 @@
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+## 扩展阅读：
+1.如何在opencv中利用trackbar调节参数：
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_trackbar/py_trackbar.html
+2.语义分割：
+https://arxiv.org/abs/1605.06211
+3.利用deep learning做这个项目的一个解决方案：
+https://towardsdatascience.com/lane-detection-with-deep-learning-part-2-3ba559b5c5af
+
+## 项目简介：
+使用计算机视觉如摄像头校准、去除畸变和透视变换等技术标记、追踪、拟合车道线，检测车道线曲率及车辆相对于每帧图像中心位置的距离。
 
 In this project, your goal is to write a software pipeline to identify the lane boundaries in a video, but the main output or product we want you to create is a detailed writeup of the project.  Check out the [writeup template](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/writeup_template.md) for this project and use it as a starting point for creating your own writeup.  
 
